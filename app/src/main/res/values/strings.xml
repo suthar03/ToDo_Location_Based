@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Location Based To Do</string>
+    <string name="selected_address" translatable="false">Selected address</string>
+    <string name="choose_country" translatable="false">Country</string>
+    <string name="select_location_on_map" translatable="false">Select location on map</string>
+    <string name="supported_areas" translatable="false">User can only select locations which contains these literals.. \nSeparate each with comma</string>
+    <string name="supported_areas_hint" translatable="false">ex : Jodhpur</string>
+    <string name="latitude" translatable="false">Latitude</string>
+    <string name="longitude" translatable="false">Longitude</string>
+    <string name="language" translatable="false">Language</string>
+    <string name="launch_activity">Launch activity</string>
+    <string name="location_unknown">Location unknown</string>
+    <string name="location_updates_label">Location Updates</string>
+    <string name="service_not_available">Service not available ..check network connection</string>
+    <string name="no_address_found">No address found</string>
+    <string name="address_found">address found</string>
+    <string name="not_support_area">This area is not supported yet</string>
+    <string name="confirm_location">Confirm Location</string>
+    <string name="search_place">Search a place</string>
+    <string name="confirm_pickup">Confirm pickup</string>
+    <string name="confirm_dest">Confirm destination</string>
+    <string name="failed_select_location">failed to select location please try again</string>
+    <string name="permission_rationale">Location permission is needed for core functionality</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core functionality.</string>
+    <string name="settings">Settings</string>
+    <string name="ok">OK</string>
+    <string name="request_location_updates">Start Service</string>
+    <string name="remove_location_updates">Stop Service</string>
+    <string name="location_updated">Location Updated: %1$s</string>
+    <string name="title_activity_placeon_map">Map</string>
+    <string name="title_activity_places_on_map">Map</string>
+
+    <string-array name="modes">
+        <item>Time</item>
+        <item>Location</item>
+    </string-array>
+
+    <string-array name="accuracies">
+        <item>30</item>
+        <item>50</item>
+        <item>100</item>
+        <item>200</item>
+        <item>500</item>
+        <item>1000</item>
+    </string-array>
+</resources>
