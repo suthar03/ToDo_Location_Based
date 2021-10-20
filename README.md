@@ -6,7 +6,7 @@ This is an android application that reminds whenever we are close to a due locat
 Many people forgot or miss the important places. Like In a route there are two or three important places for you for some reason like you have to do something over there. Many time people missed that place, As they may concentrated to driving totally or many people have kind of short memory loss. This will help them all to get rid of that problem.
 
 # Technology Used
-  java
+  java, MySQL
 
 # Working Demo
 
